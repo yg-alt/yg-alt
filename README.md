@@ -26,7 +26,7 @@
 
 ### My GitHub Contributions
 
-![](https://cwd295645351.github.io/Cwd295645351/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/yg-alt/yg-alt/output/github-contribution-grid-snake-dark.svg)
 
 ### My GitHub Stats
 
