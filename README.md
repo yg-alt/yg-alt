@@ -59,4 +59,4 @@ Other                      5 hrs 12 mins   ▒░░░░░░░░░░░�
 
 ### My GitHub Contributions
 
-![](https://github.com/Cwd295645351/Cwd295645351/blob/main/profile-3d-contrib/profile-gitblock.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
