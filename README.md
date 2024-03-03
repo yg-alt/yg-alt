@@ -43,7 +43,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 March 2023 - To: 29 February 2024
+From: 02 March 2023 - To: 01 March 2024
 
 Total Time: 0 secs
 
